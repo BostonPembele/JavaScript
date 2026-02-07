@@ -1,0 +1,7 @@
+What i have caught up with:
+
+-using window.prompt to enter a value to be shown in console
+-creating a text anbd button to input a value and display it on the webpage
+-creating a function to do dispaly the value
+-learning document.getElementById("mySubmit").onclick to give action to the button
+-document.getElementById("username").value; to give the variable a value from the input on the html
