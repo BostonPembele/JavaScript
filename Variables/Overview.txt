@@ -1,0 +1,8 @@
+What i have learned here is:
+
+-That a variable is a container that stores a value & that it behaves as if it were the value it contains.
+-learned to define number, string and boolean data types using 'let' keyword
+-let age = 20;
+-let name = "Boston";
+-let isStudent = "true";
+-learnt to show that the data type i chose to use using the typeof keyword
