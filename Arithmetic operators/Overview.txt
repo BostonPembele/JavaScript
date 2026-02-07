@@ -1,0 +1,7 @@
+What i learned here was:
+
+-the use of operators like multiplicatio, addition, subtraction, modulus, division, to the power of, etc
+-difference between operands and operators
+-decriments and incriments (+ & --)
+-augmented adssigned operators so student +=1 which is student + 1 =
+-and operator precedence

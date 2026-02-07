@@ -14,4 +14,22 @@ let students = 30;
 //students **= 2; //students = students ** 2;
 //students %= 21; //students = students % 21;
 
+//students++; //students = students + 1;
+//students--; //students = students - 1;
+
+/*operators have precedence
+1. Parentheses()
+2. Exponentiation **
+3. Multiplication and Division (from left to right)
+4. Addition and Subtraction (from left to right)
+
+let result = 1 + 2 * 3 + 4 ** 2;
+let result = 1 + 2 * 3 + 16;
+let result = 1 + 6 + 16;
+let result = 23;
+
+console.log(result);// print 23
+
+*/
+
 console.log(students);
