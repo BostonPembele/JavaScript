@@ -1,0 +1,6 @@
+In this folder what i learned and displayed was the following
+
+-Linking a JS file using a script command in the html file
+-Using the console.log to output text
+-creating text for html elements by giving the elements ID's and using the command getElementById to change the text
+-displaying alerts using the window.alert command
