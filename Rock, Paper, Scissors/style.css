@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+body{
+    background-color: rgb(230, 187, 187);
+    color: white;
+    font-family: 'Bagel Fat One', cursive;
+}
+
+#myH1{
+    color: rgb(241, 45, 45);
+    
+}
