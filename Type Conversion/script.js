@@ -8,9 +8,9 @@
 //console.log(age);
 //console.log(typeof age);
 
-let x = "pizza";
-let y = "pizza";
-let z = "pizza";
+let x ;
+let y ;
+let z ;
 
 x = Number(x);
 y = String(y);

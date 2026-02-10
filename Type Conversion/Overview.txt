@@ -1,0 +1,8 @@
+What i have learned from this lesson
+
+-converting number to booleans and string to numbers, vice versa
+-eg. 
+let x;
+x = Number(x);
+console.log(x, typeof x) // will print the number and the type would be number
+-basically changing data types form one to another
