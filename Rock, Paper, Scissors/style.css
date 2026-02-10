@@ -10,3 +10,7 @@ body{
     color: rgb(241, 45, 45);
     
 }
+#container{
+    display: flex;
+    justify-content: center;
+}
